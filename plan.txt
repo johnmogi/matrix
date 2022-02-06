@@ -1,0 +1,15 @@
+פיתוח Node.js   עם NEST.LS
+
+פיתוח Angular  
+
+פיתוח וצריכת ממשקי REST          - V
+
+יתרון משמעותי  עבודה עם MySQL או PostgreSQL
+
+יתרון משמעותי  פיתוח Strapi     
+
+יתרון משמעותי  פיתוח Headless
+
+יתרון     פיתוח CMS       
+
+יתרון     פיתוח eCommerce    
