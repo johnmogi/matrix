@@ -2,11 +2,11 @@
 
 function factorial(n){
     let res = 1
-    for (let i = 0; i < n; i++) {
-        res*= n
+    for (let i = 1; i <= n; i++) {
+        res *= i;
     }
-    return res
+    return res;
 }
 
-let num2 = factorial(2)
-console.log(num2);
+
+console.log(factorial(4));
