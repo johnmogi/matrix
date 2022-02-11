@@ -1,0 +1,11 @@
+.grey, .red{
+    width: 100px;
+    height: 100px;
+}
+#scoreboard{
+    position: absolute;
+    left: 50%;
+    top: 10px;
+    padding: 5px 10px;
+    border: 1px solid #000;
+}

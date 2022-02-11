@@ -1,5 +1,8 @@
 # matrix
 js revision.
+look for "before after" function (and others) documentation or manually develop it again
+also - save time and don't do it- recheck later on gocode.
+
 object practices - missing.
 
 practice dom elements - nodes and loops.
