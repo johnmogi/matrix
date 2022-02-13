@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "git": "git add --all && git commit -m",
-    "postgit":"git push --all"
+    "postgit": "git push --all"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/johnmogi/matrix/issues"
   },
-  "homepage": "https://github.com/johnmogi/matrix#readme"
+  "homepage": "https://github.com/johnmogi/matrix#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "crypto": "^1.0.1",
+    "express": "^4.17.2"
+  }
 }
