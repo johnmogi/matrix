@@ -1,3 +1,12 @@
+html, body{
+  margin:0;
+  padding:0;
+}
+.container{
+  width:100vw;
+  height:100vh;
+  display:flex;
+}
 .sidebar .menu {
     list-style: none;
     padding: 0;
@@ -12,9 +21,14 @@
 }
 
 .sidebar {
+  flex:1;
   background: #012622;
+  passing:5px;
 }
 
 .main {
+  passing:5px;
+
+  flex:3;
   background: #ECE5F0;
 }
